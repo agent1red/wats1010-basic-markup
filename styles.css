@@ -1,0 +1,13 @@
+p,li {
+	line-height:1.50;
+}
+h3{
+	color:graytext;
+}
+#MainContent, #SegregationArea {
+	max-width: 70%;
+}
+body.page-body img{
+         width: 900px;
+         height:auto;
+ }
