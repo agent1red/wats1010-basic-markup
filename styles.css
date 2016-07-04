@@ -5,9 +5,10 @@ h3{
 	color:graytext;
 }
 #MainContent, #SegregationArea {
-	max-width: 70%;
+	max-width: 75%;
+	min-width: auto;
 }
 body.page-body img{
-         width: 900px;
+         width: 600px;
          height:auto;
  }
